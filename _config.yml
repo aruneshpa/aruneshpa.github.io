@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Seg-Fault
+title: Seg.Fault
 
 # Your name to show in the footer
 author: Arunesh Pandey
@@ -21,7 +21,7 @@ author: Arunesh Pandey
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Emacs: "emacs-intro"
   Author's home: "https://linkedin.com/in/aruneshpa"
 
 ################

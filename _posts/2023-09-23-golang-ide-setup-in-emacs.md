@@ -1,7 +1,7 @@
 ---
-title:  "Beginners Emacs Configuration: Getting Started"
+title:  "Configuring Emacs as a Golang IDE"
 subtitle: "In this post, we will configure Emacs as a fully functional Golang IDE"
-tags: [emacs, technology, editor]
+tags: [technology, emacs, editor]
 ---
 
 Hello and welcome to another post about Emacs. In this post, we will try to set up a functional development environment in Emacs with minimal configuration. I will explain each configuration option briefly as we go along, but I will also drop links to the detailed documentation so you can read it in detail. If you are new to Emacs, please check out the previous post on how to run Emacs with a basic configuration.
@@ -28,7 +28,7 @@ Before we get started, let's define a few terms that we will use throughout this
 | Buffer | Essentially how Emacs interacts with a file or a process. Each open file will have it's open buffer. Processes usually output things to a buffer (which is not a file). |
 | Window | A view into the file or the process. For example, if the buffer is for a file, you will see the contents of that file.                                                  |
 | Frame  | A Window. When you open Emacs in GUI, that's an Emacs Frame. In a Frame, you can have many buffers. At a time, you can operate on one buffer in one window.             |
-| Point  | Cursor.                                                                                                                                                                        |
+| Point  | Cursor.                                                                                                                                                                 |
 
 # Components of an IDE
 
