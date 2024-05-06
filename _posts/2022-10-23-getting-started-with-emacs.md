@@ -1,14 +1,10 @@
 ---
-layout: single
 title:  "Getting Started with Emacs"
-excerpt: "Emacs 101.  Downloading, installing, and some key concepts"
-categories: 
- - emacs
+subtitle: "Emacs 101.  Downloading, installing, and some key concepts"
 tags:
  - emacs
-date:   2023-09-20 10:58:01 -0700
-categories: emacs
-author: Arunesh Pandey
+ - technology
+ - editor
 ---
 
 # Download and Install
